@@ -22,4 +22,3 @@ do
 say() { local IFS=+;/usr/bin/mplayer -ao alsa -really-quiet -noconsolecontrols "http://translate.google.com/translate_tts?tl=pl&ie=UTF-8&q=${SHORT[$key]}"; }
 say $*
 done
-
