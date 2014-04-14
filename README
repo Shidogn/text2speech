@@ -1,0 +1,2 @@
+Program wywoływany:
+./say tekst do przeczytania 2>/dev/null
